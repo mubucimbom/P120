@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Lab\P120\18122020\18122020\bin\Debug\18122020.exe.config
+C:\Users\Admin\Desktop\Lab\P120\18122020\18122020\bin\Debug\18122020.exe
+C:\Users\Admin\Desktop\Lab\P120\18122020\18122020\bin\Debug\18122020.pdb
+C:\Users\Admin\Desktop\Lab\P120\18122020\18122020\obj\Debug\18122020.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Lab\P120\18122020\18122020\obj\Debug\18122020.exe
+C:\Users\Admin\Desktop\Lab\P120\18122020\18122020\obj\Debug\18122020.pdb
